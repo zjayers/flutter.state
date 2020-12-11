@@ -1,16 +1,21 @@
-# flutter_state
+# Flutter State
+[![GitHub Release](https://img.shields.io/github/release/zjayers/flutter.state.svg?style=flat)]()
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/flutter.state.svg?style=flat)]()
+[![Issues](https://img.shields.io/github/issues-raw/zjayers/flutter.state.svg?maxAge=25000)](https://github.com/zjayers/flutter.state/issues)
+[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/flutter.state/blob/master/LICENSEs)
 
-A new Flutter application.
+## Description
 
-## Getting Started
+> Work in progress
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+> Work in progress
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Installation
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Work in progress
+
+## Usage
+
+> Work in progress
